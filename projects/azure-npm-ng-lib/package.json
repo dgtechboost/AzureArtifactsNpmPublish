@@ -1,6 +1,12 @@
 {
   "name": "azure-npm-ng-lib",
   "version": "0.0.1",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test"
+  },
   "peerDependencies": {
     "@angular/common": "^11.0.5",
     "@angular/core": "^11.0.5"
