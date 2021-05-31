@@ -8,6 +8,6 @@ export class AzureNpmNgLibService {
   constructor() { }
   
   getMessage(){
-    return "this is message from super duper library from azure artifacts"
+    return "wow what an update! is it the font or a colour :-D"
   }
 }
